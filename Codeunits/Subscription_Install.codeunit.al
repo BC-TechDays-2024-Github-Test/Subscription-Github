@@ -12,4 +12,6 @@ codeunit 50102 "BCT SubscriptionInstall"
         // Instantiate variables needed for the extension
 
     end;
+
+    //TEst fir 
 }
