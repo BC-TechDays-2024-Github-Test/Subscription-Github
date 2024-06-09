@@ -13,5 +13,5 @@ codeunit 50102 "BCT SubscriptionInstall"
 
     end;
 
-    //TEst fir 
+    //eEst for Testing 
 }
